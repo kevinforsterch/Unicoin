@@ -1,5 +1,5 @@
 # Unicoin
-A brand new cryptocurrency.
+A brand new very green cryptocurrency.
 
 ## What's new
 * Use the most ASIC-resistant hash algorithm, Hashcore instead of SHA-256
